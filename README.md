@@ -19,3 +19,7 @@ uvicorn main:app --reload
 ```
 
 Or deploy if you want.
+
+## Functionalities
+- Chat assistant
+- Image generation using DALL-E
