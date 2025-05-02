@@ -3,11 +3,11 @@ OpenAI chatbot web application to use with OpenAI API key. This web application 
 
 ## Prerequisite
 
-Check requirements.txt file
+Check `requirements.txt` file
 
 ## OpenAI API key
 
-Create a file and name it .env then paste your OpenAI API key in:
+Create a file and name it `.env` then paste your OpenAI API key in:
 ```.env
 OPENAI_API_KEY=""
 ```
