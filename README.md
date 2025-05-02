@@ -7,11 +7,9 @@ Check requirements.txt file
 
 ## OpenAI API key
 
-Paste your OpenAI API key in below location of main.py:
-```python
-client = OpenAI(
-    api_key = ""
-)
+Create a file and name it .env then paste your OpenAI API key in:
+```.env
+OPENAI_API_KEY=""
 ```
 
 ## Run application
