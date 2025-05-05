@@ -1,6 +1,10 @@
 # openai-chatbot
 OpenAI chatbot web application to use with OpenAI API key. This web application uses FastAPI, Websocket and Jinja2.
 
+<img src="screenshots/chat.png" alt="Chatbot" width="854" heigh="480"/>
+
+<img src="screenshots/genImage.png" alt="Generate images" width="854" heigh="480"/>
+
 ## Prerequisite
 
 Check `requirements.txt` file
